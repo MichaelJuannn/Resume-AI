@@ -21,8 +21,8 @@
 
 # Part 4 (Deep Learning)
 
-Feedforward Neural Networks
-Convolutional Neural Networks
-DeepLearning in Ophtamology
+Feedforward Neural Networks (Dhea)
+Convolutional Neural Networks (Ayu)
+DeepLearning in Ophtamology (Diffa)
 
 # part 5 (Conclussion)
