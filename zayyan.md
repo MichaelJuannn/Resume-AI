@@ -1,0 +1,12 @@
+# PART 2 Discussion
+
+# 3. *Semi-supervised Learning*
+&emsp;*Semisupervised learning* can be thought of as the “*happy medium*” between supervised and unsupervised learning and is particularly useful for datasets that contain both labeled and unlabeled data (i.e., all features are present, but not all features have associated targets). This situation typically arises when labeling images become time-intensive or cost-prohibitive. 
+
+&emsp;*Semisupervised learning* is often used for medical images, where a physician might label a small subset of images and use them to train a model. This model is then used to classify the rest of the unlabeled images in the dataset. The resultant labeled dataset is then used to train a working model that should, in theory, outperform unsupervised models.
+
+
+# 4. *Reinforcement Learning*
+&emsp;*Reinforcement* learning is the technique of training an algorithm for a specific task where no single answer is correct, but an overall outcome is desired.9,10 It is arguably the closest attempt at modeling the human learning experience because it also learns from trial and error rather than data alone.9,10 Although *reinforcement learning* is a powerful technique, its applications in medicine are currently limited and thus will be presented with a new example. Imagine one would like to train an algorithm to play the video game Super Mario Bros, where the purpose of the game is to move the character Mario from the left side of the screen to the right side in order to reach the flag pole at the end of each level while avoiding hazards such as enemies and pits. 
+
+&emsp;There is no correct sequence of controller inputs; there are sequences that lead to a win and those that do not. In *reinforcement learning*, an algorithm would be allowed to “play” on its own. It would attempt many different controller inputs and when it finally moves Mario forward (without receiving damage), the algorithm is “rewarded” (i.e., the behavior is reinforced). Through this process, the algorithm begins to learn what behavior is desired (e.g., moving forward is better than moving backward, jumping over enemies is better than running into them). Eventually, the algorithm learns how to move from start to finish. Although reinforcement has its place in the field of computer science and machine learning, it has yet to make a substantial impact in clinical medicine. 
