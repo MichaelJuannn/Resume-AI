@@ -21,4 +21,8 @@
 
 # Part 4 (Deep Learning)
 
+Feedforward Neural Networks
+Convolutional Neural Networks
+DeepLearning in Ophtamology
+
 # part 5 (Conclussion)
