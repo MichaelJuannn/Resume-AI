@@ -8,12 +8,12 @@
 
 # Part 2 (Discussion)
 
-1. Supervised Learning
-2. Unsupervised Learning
-3. semi-supervised Learning
-4. Reinforcement Learning
+1. Supervised Learning (Erli)
+2. Unsupervised Learning (Erli)
+3. semi-supervised Learning (Zayyan)
+4. Reinforcement Learning (Zayyan)
 
-# Part 3 (Classic Machine Learning Method)
+# Part 3 (Classic Machine Learning Method) (Juan)
 
 1. Linear Regression
 2. Logistic Regression
